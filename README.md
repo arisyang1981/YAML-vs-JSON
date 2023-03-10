@@ -7,4 +7,6 @@ What is YAML from RedHat? \
 https://www.redhat.com/en/topics/automation/what-is-yaml \
 
 # YAML Essentials
-https://learn.acloud.guru/course/90dd551f-91a6-4b91-a0a8-d4905521f641/dashboard
+Introdution basic knowledge of YAML, worthwhile watch a few times. \
+https://learn.acloud.guru/course/90dd551f-91a6-4b91-a0a8-d4905521f641/dashboard \
+
